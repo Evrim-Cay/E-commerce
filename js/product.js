@@ -41,8 +41,7 @@ export const renderProducts = (products, addToCartCallBack) => {
 `
     )
     .join("");
-    
-  // Products bir dizi.Dizi elemanları ',' ile ayrılır.Biz burada elemanları boşluk ile ayırmasını sağladık.
+  
 
   // Add to cart butonlarını seç
   const addToCartButtons = document.getElementsByClassName("add-to-cart");
