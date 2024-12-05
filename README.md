@@ -1,9 +1,12 @@
 
 
 E-Commerce Project
-This project is a JavaScript-based application designed to create a modern e-commerce platform. Users can browse products, add them to their cart, and place orders.
+
+This project is a JavaScript-based application designed to create a modern e-commerce platform. 
+Users can browse products, add them to their cart, and place orders.
 
 Features
+
 Product Listing: Users can view products with category and filtering options.
 Cart Management: Add and remove products from the shopping cart.
 Responsive Design: Works seamlessly on both desktop and mobile devices.
