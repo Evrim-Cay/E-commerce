@@ -1,4 +1,4 @@
-##E-Commerce Project
+## E-Commerce Project
 This project is a JavaScript-based application designed to create a modern e-commerce platform. 
 Users can browse products, add them to their cart, and place orders.
 
